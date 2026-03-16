@@ -1,4 +1,3 @@
-# OpenClaw-RAG-
 # OpenClaw + 本地RAG私有化知识助理
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
